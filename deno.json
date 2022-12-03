@@ -10,7 +10,7 @@
       "include": ["days/"]
     },
     "options": {
-      "useTabs": true
+      "useTabs": false
     }
   }
 }
